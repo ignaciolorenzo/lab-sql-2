@@ -12,9 +12,6 @@ The ERD is pictured below - not all tables are shown, but many of the key fields
 
 ### Instructions
 
-
-Instructions:
-
 1. Select all the actors with the first name ‘Scarlett’.
 2. Select all the actors with the last name ‘Johansson’.
 3. How many films (movies) are available for rent?
